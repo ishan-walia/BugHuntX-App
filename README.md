@@ -77,3 +77,4 @@ build/app/outputs/bundle/release/app-release.aab
 
 This project is developed for educational and startup use.
 
+BugHuntX – Find Bugs. Earn Rewards. Secure the Internet.
