@@ -73,3 +73,7 @@ build/app/outputs/bundle/release/app-release.aab
 - Cyber security courses and events  
 
 ---
+## 📜 License
+
+This project is developed for educational and startup use.
+
