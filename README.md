@@ -39,3 +39,11 @@ Storage: Firebase Storage
 Payments: Razorpay  
 
 ---
+## ▶ Installation
+
+Install all required Flutter packages and run the application using:
+
+flutter pub get  
+flutter run  
+
+---
