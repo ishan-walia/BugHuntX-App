@@ -47,3 +47,22 @@ flutter pub get
 flutter run  
 
 ---
+---
+
+## 📦 Build
+
+Generate release APK:
+
+flutter build apk  
+
+APK output location:  
+build/app/outputs/flutter-apk/app-release.apk  
+
+Generate Play Store bundle:
+
+flutter build appbundle  
+
+Bundle output location:  
+build/app/outputs/bundle/release/app-release.aab  
+
+---
