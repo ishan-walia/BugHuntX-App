@@ -29,3 +29,13 @@ It provides a secure platform where companies can publish bug bounty programs an
 - Manage platform revenue  
 
 ---
+## 🛠 Tech Stack
+
+Mobile App: Flutter (Dart)  
+Backend: Firebase / Spring Boot  
+Database: Firestore / MongoDB  
+Authentication: Firebase Auth  
+Storage: Firebase Storage  
+Payments: Razorpay  
+
+---
