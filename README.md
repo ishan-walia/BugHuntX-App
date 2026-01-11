@@ -47,7 +47,6 @@ flutter pub get
 flutter run  
 
 ---
----
 
 ## 📦 Build
 
@@ -64,5 +63,13 @@ flutter build appbundle
 
 Bundle output location:  
 build/app/outputs/bundle/release/app-release.aab  
+
+---
+## 🌟 Future Scope
+
+- AI based duplicate bug detection  
+- Automatic payout system  
+- Website vulnerability scanner  
+- Cyber security courses and events  
 
 ---
