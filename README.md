@@ -12,10 +12,20 @@ It provides a secure platform where companies can publish bug bounty programs an
 - Upload proof files  
 - Track report status  
 - Earn rewards and withdraw money  
-- Certificates and leaderboard  
+- Certificates and leaderboard
+  
 ### For Companies
 - Create and manage bug bounty programs  
 - Review vulnerability reports  
 - Approve or reject reports  
 - Pay rewards to researchers  
-- View security analytics  
+- View security analytics
+
+  
+### Admin Panel
+- Verify companies and researchers  
+- Approve programs  
+- Handle fake or duplicate reports  
+- Manage platform revenue  
+
+---
