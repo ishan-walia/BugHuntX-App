@@ -4,3 +4,12 @@ BugHuntX is a professional Bug Bounty and Cyber Security Android application bui
 It provides a secure platform where companies can publish bug bounty programs and security researchers can report vulnerabilities to earn rewards.
 
 ---
+## 🚀 Features
+
+### For Researchers
+- Browse bug bounty programs  
+- Submit vulnerability reports  
+- Upload proof files  
+- Track report status  
+- Earn rewards and withdraw money  
+- Certificates and leaderboard  
