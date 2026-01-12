@@ -65,6 +65,12 @@ Bundle output location:
 build/app/outputs/bundle/release/app-release.aab  
 
 ---
+## 📸 Screenshots
+
+| Home | Bug Programs | Report Submit | Wallet |
+|-----|-------------|--------------|-------|
+| ![](assets/home.png) | ![](assets/programs.png) | ![](assets/report.png) | ![](assets/wallet.png) |
+
 ## 🌟 Future Scope
 
 - AI based duplicate bug detection  
