@@ -1,3 +1,7 @@
+![Flutter](https://img.shields.io/badge/Flutter-App-blue)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)
+![Razorpay](https://img.shields.io/badge/Razorpay-Payments-green)
+
 # 🐞 BugHuntX
 
 BugHuntX is a professional Bug Bounty and Cyber Security Android application built using Flutter.  
