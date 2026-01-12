@@ -17,7 +17,18 @@ It provides a secure platform where companies can publish bug bounty programs an
 - Track report status  
 - Earn rewards and withdraw money  
 - Certificates and leaderboard
-  
+
+
+---
+
+## 🔐 Security
+
+- End-to-end encrypted reports  
+- Secure file storage  
+- Verified companies only  
+- GDPR compliant data handling  
+
+---
 ### For Companies
 - Create and manage bug bounty programs  
 - Review vulnerability reports  
@@ -91,13 +102,18 @@ Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
 
 Only test websites that you own or have permission to test.  
 BugHuntX is not responsible for illegal testing.
+
 ## 📜 License
 
 This project is developed for educational and startup use.
 
-BugHuntX – Find Bugs. Earn Rewards. Secure the Internet.
+
 ## 📞 Contact
 
 Founder: Ishan Walia  
 Email: support@bughuntx.com  
 LinkedIn: https://linkedin.com/in/ishanwalia  
+
+---
+
+### BugHuntX – Find Bugs. Earn Rewards. Secure the Internet.
