@@ -83,6 +83,10 @@ Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
 - Cyber security courses and events  
 
 ---
+## ⚠ Disclaimer
+
+Only test websites that you own or have permission to test.  
+BugHuntX is not responsible for illegal testing.
 ## 📜 License
 
 This project is developed for educational and startup use.
