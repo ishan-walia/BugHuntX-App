@@ -92,3 +92,8 @@ BugHuntX is not responsible for illegal testing.
 This project is developed for educational and startup use.
 
 BugHuntX – Find Bugs. Earn Rewards. Secure the Internet.
+## 📞 Contact
+
+Founder: Ishan Walia  
+Email: support@bughuntx.com  
+LinkedIn: https://linkedin.com/in/ishanwalia  
