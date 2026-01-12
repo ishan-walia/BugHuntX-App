@@ -71,6 +71,10 @@ build/app/outputs/bundle/release/app-release.aab
 |-----|-------------|--------------|-------|
 | ![](assets/home.png) | ![](assets/programs.png) | ![](assets/report.png) | ![](assets/wallet.png) |
 
+## 🔄 User Flow
+
+Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
+
 ## 🌟 Future Scope
 
 - AI based duplicate bug detection  
