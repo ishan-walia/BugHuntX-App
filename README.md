@@ -61,6 +61,10 @@ Storage: Firebase Storage
 Payments: Razorpay  
 
 ---
+## 🚨 Abuse Policy
+- Fake report ban
+- Duplicate reject
+- Spam control
 ## ▶ Installation
 
 Install all required Flutter packages and run the application using:
