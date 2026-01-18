@@ -44,6 +44,13 @@ It provides a secure platform where companies can publish bug bounty programs an
 - Manage platform revenue  
 
 ---
+## 🧠 Why BugHuntX?
+- Add benefits:
+- Indian platform
+- Student friendly
+- Fast payout
+- Learning + earning
+  
 ## 🛠 Tech Stack
 
 Mobile App: Flutter (Dart)  
