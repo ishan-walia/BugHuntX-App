@@ -129,6 +129,8 @@ Yes, only permission-based testing allowed.
 **Q: Is it beginner friendly?**  
 Yes, perfect for students and freshers.
 
+**Q: How payouts work?**
+
 ## ⚠ Disclaimer
 
 Only test websites that you own or have permission to test.  
