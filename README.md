@@ -130,6 +130,7 @@ Yes, only permission-based testing allowed.
 Yes, perfect for students and freshers.
 
 **Q: How payouts work?**
+Via Razorpay directly to bank account.
 
 ## ⚠ Disclaimer
 
