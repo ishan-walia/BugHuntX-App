@@ -102,6 +102,8 @@ Bundle output location:
 build/app/outputs/bundle/release/app-release.aab  
 
 ---
+## 📁 Project Structure
+
 ## 📸 Screenshots
 
 | Home | Bug Programs | Report Submit | Wallet |
