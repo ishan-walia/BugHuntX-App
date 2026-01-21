@@ -3,6 +3,7 @@
 ![Razorpay](https://img.shields.io/badge/Razorpay-Payments-green)
 ![License](https://img.shields.io/badge/License-Educational-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
 
 # 🐞 BugHuntX
 
