@@ -66,6 +66,11 @@ Payments: Razorpay
 
 ---
 ## 📊 Platform Highlights
+- 🔐 Secure vulnerability reporting system  
+- 🧑‍💻 Built for students & researchers  
+- 🇮🇳 Made in India platform  
+- ⚡ Fast reward processing  
+- 📈 Scalable architecture  
 
 ## 🚨 Abuse Policy
 - Fake report ban
