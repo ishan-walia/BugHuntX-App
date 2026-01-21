@@ -65,6 +65,8 @@ Storage: Firebase Storage
 Payments: Razorpay  
 
 ---
+## 📊 Platform Highlights
+
 ## 🚨 Abuse Policy
 - Fake report ban
 - Duplicate reject
