@@ -124,6 +124,7 @@ Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
 ---
 ## ❓ FAQ
 **Q: Is BugHuntX legal?**  
+Yes, only permission-based testing allowed.
 
 ## ⚠ Disclaimer
 
