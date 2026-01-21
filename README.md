@@ -122,6 +122,8 @@ Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
 - Cyber security courses and events  
 
 ---
+## ❓ FAQ
+
 ## ⚠ Disclaimer
 
 Only test websites that you own or have permission to test.  
