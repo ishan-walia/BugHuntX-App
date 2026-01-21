@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-Educational-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Made in India](https://img.shields.io/badge/Made%20in-India-orange)
 
 # 🐞 BugHuntX
 
