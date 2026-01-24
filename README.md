@@ -54,7 +54,11 @@ It provides a secure platform where companies can publish bug bounty programs an
 - Student friendly
 - Fast payout
 - Learning + earning
-  
+
+## 🌐 Live Demo
+🚧 Web demo coming soon  
+📱 Android APK will be released after beta testing
+
 ## 🛠 Tech Stack
 
 Mobile App: Flutter (Dart)  
