@@ -55,6 +55,12 @@ It provides a secure platform where companies can publish bug bounty programs an
 - Fast payout
 - Learning + earning
 
+## 👥 User Roles
+
+- 🧑‍💻 Researcher
+- 🏢 Company
+- 🛡️ Admin
+
 ## 🌐 Live Demo
 🚧 Web demo coming soon  
 📱 Android APK will be released after beta testing
