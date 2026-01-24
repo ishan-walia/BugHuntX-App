@@ -151,6 +151,10 @@ BugHuntX is not responsible for illegal testing.
 
 This project is developed for educational and startup use.
 
+## 📄 Terms & Policy
+- No illegal testing allowed
+- Strict action against fake reports
+- User data privacy respected
 
 ## 📞 Contact
 
