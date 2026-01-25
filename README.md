@@ -75,6 +75,12 @@ Storage: Firebase Storage
 Payments: Razorpay  
 
 ---
+## 💸 Monetization Model
+- Platform commission on rewards
+- Premium company listings
+- Verified researcher badges
+- Cyber security courses & workshops
+
 ## 📊 Platform Highlights
 - 🔐 Secure vulnerability reporting system  
 - 🧑‍💻 Built for students & researchers  
