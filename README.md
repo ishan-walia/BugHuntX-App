@@ -24,6 +24,12 @@ It provides a secure platform where companies can publish bug bounty programs an
 
 
 ---
+## 🆚 Why BugHuntX?
+| Feature | BugHuntX | Others |
+|------|---------|--------|
+| Student Friendly | ✅ | ❌ |
+| Indian Platform | ✅ | ❌ |
+| Fast Payout | ✅ | ⚠ |
 
 ## 🔐 Security
 
