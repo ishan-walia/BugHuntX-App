@@ -126,6 +126,7 @@ Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
 
 ## ⭐ Key Differentiators
 - 🇮🇳 India’s first student-focused bug bounty platform
+-  🎓 Beginner friendly for college students
 
 ## 🌟 Future Scope
 
