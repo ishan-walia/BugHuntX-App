@@ -161,6 +161,10 @@ Yes, perfect for students and freshers.
 **Q: How payouts work?**
 Via Razorpay directly to bank account.
 
+## 🤝 Contributing
+Pull requests are welcome.
+For major changes, please open an issue first.
+
 ## ⚠ Disclaimer
 
 Only test websites that you own or have permission to test.  
