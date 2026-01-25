@@ -124,6 +124,8 @@ build/app/outputs/bundle/release/app-release.aab
 
 Researcher → Submit Bug → Company Review → Admin Verify → Reward Paid
 
+## ⭐ Key Differentiators
+
 ## 🌟 Future Scope
 
 - AI based duplicate bug detection  
